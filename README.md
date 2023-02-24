@@ -4,3 +4,4 @@ print statements
 variables
 loops
 conditional statements
+scripting
